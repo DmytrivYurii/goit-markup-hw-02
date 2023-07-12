@@ -141,7 +141,7 @@ body {
   text-transform: capitalize;
 }
 .team {
-  background-color: #F4F4FD;
+  
 }
 .team-subtitle {
   color: #2e2f42;
@@ -153,7 +153,7 @@ body {
   text-transform: capitalize;
 }
 .team-list{
-  
+  background-color: #F4F4FD;
 }
 .team-name {
   color: #2e2f42;
