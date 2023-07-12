@@ -79,6 +79,7 @@ body {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -113,10 +114,10 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.hero-btn .link:hover {
+.hero-btn:hover {
   background-color: #404bbf;
 }
-.hero-btn .link:focus {
+.hero-btn:focus {
   background-color: #404bbf;
 }
 .company-item {
