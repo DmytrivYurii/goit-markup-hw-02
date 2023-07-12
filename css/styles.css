@@ -24,7 +24,7 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
-.navigation-logo:hover .navigation-logo:focus {
+.navigation-logo .link:hover .navigation-logo .link:focus {
   color: #404bbf;
 }
 .span-logo {
@@ -45,7 +45,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.navigation-list:hover .navigation-list:focus {
+.navigation-list .link:hover .navigation-list .link:focus {
   color: #404bbf;
 }
 .navigation-link {
@@ -55,7 +55,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-link:hover .navigation-link:focus {
+.navigation-link .link:hover .navigation-link .link:focus {
   color: #404bbf;
 }
 :root {
@@ -72,7 +72,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-title-contacts:hover .navigation-title-contacts:focus {
+.navigation-title-contacts .link:hover .navigation-title-contacts .link:focus {
   font-style: normal;
   color: #404bbf;
 }
