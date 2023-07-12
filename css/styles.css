@@ -85,7 +85,11 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-title-contacts .link:hover .navigation-title-contacts .link:focus {
+.navigation-title-contacts .link:hover {
+  font-style: normal;
+  color: #404bbf;
+}
+.navigation-title-contacts .link:focus {
   font-style: normal;
   color: #404bbf;
 }
