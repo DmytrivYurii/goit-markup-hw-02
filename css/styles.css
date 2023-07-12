@@ -75,7 +75,7 @@ body {
 }
 .navigation-title-contacts .link:hover .navigation-title-contacts .link:focus {
   font-style: normal;
-  color: var(--secondary-accent-color)
+  color: var(--secondary-accent-color);
 }
 .hero {
   background-color: #2e2f42;
