@@ -84,10 +84,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-contacts-link .link:hover {
+.navigation-contacts-link:hover {
   color: #404bbf;
 }
-.navigation-contacts-link .link:focus {
+.navigation-contacts-link:focus {
   color: #404bbf;
 }
 .hero {
