@@ -1,6 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 .link {
   text-decoration: none;
@@ -20,7 +21,7 @@ body {
   text-decoration: none;
 }
 .span-logo {
-  color: #4d5ae5;
+  color: #f4f4fd;
   font-family: "Raleway";
   font-size: 18px;
   font-weight: 800;
@@ -49,7 +50,7 @@ body {
   background-color: #2e2f42;
 }
 .hero-title {
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   font-family: "Roboto";
   font-size: 56px;
@@ -59,7 +60,7 @@ body {
 }
 .hero-btn {
   background-color: #4d5ae5;
-  color: #fff;
+  color: #ffffff;
   font-family: "Roboto";
   font-size: 16px;
   font-style: normal;
@@ -128,9 +129,10 @@ body {
 }
 .footer {
   background-color: #2e2f42;
+  font-family: "Raleway" sans-serif;
 }
 .footer-link {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: "Raleway";
   font-size: 18px;
   font-weight: 800;
@@ -151,7 +153,7 @@ body {
 }
 .button-item-press {
   background-color: #404BBF;
-  color: #FFF;
+  color: #FFFfff;
   text-align: center;
   font-family: 'Roboto';
   font-size: 16px;
