@@ -24,6 +24,10 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
+.navigation-logo:hover
+.navigation-logo:focus{
+  color: #404bbf;
+}
 .span-logo {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
@@ -68,8 +72,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-title-contacts:hover .navigation-title-contacts:focus {
-  color: #404bbf;
+.navigation-title-contacts{
+  font-style: normal;
 }
 .hero {
   background-color: #2e2f42;
