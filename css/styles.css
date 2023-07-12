@@ -74,6 +74,9 @@ body {
   --primary-white-color: #f4f4fd;
   --secondary-accent-color: #404bbf;
 }
+.navigation-title-contacts{
+  font-style: normal;
+}
 .navigation-contacts-link {
   color: #434455;
   font-size: 16px;
