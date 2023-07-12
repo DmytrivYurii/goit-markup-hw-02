@@ -30,9 +30,6 @@ body {
 .navigation-logo .link:focus {
   color: #404bbf;
 }
-address {
-  font-style: normal;
-}
 .span-logo {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
