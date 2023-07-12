@@ -79,13 +79,14 @@ body {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
-  
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.navigation-title-contacts{
+  font-style: normal;
+}
 .navigation-contacts-link:hover,
 .navigation-contacts-link:focus {
-  font-style: normal;
   color: #404bbf;
 }
 
