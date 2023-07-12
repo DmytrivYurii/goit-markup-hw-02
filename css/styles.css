@@ -24,8 +24,7 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
-.navigation-logo:hover
-.navigation-logo:focus{
+.navigation-logo:hover .navigation-logo:focus {
   color: #404bbf;
 }
 .span-logo {
@@ -61,6 +60,7 @@ body {
 }
 :root {
   --primary-font: "Roboto", sans-serif;
+  --logo-font: "Raleway", sans-serif;
   --primary-black-color: #434455;
   --primary-white-color: #f4f4fd;
 }
@@ -126,7 +126,7 @@ body {
   text-transform: capitalize;
 }
 .team {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .team-subtitle {
   color: #2e2f42;
