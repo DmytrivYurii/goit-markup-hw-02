@@ -82,11 +82,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-title-contacts .link:hover {
+.navigation-contacts-link .link:hover {
   font-style: normal;
   color: #404bbf;
 }
-.navigation-title-contacts .link:focus {
+.navigation-contacts-link .link:focus {
   font-style: normal;
   color: #404bbf;
 }
