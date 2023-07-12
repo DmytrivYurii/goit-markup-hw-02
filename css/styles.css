@@ -24,8 +24,17 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
-.span-logo {
-  color: #2e2f42;
+.span-logo{
+  color: #2E2F42;
+  font-family: 'Raleway' sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.span-logo-footer {
+  color: #f4f4fd;
   font-family: 'Raleway' sans-serif;
   font-size: 18px;
   font-weight: 800;
