@@ -46,7 +46,7 @@ body {
   text-transform: uppercase;
 }
 .navigation-list .link:hover .navigation-list .link:focus {
-  color: var(--secondary-accent-color)
+  color: var(--secondary-accent-color);
 }
 .navigation-link {
   color: #2e2f42;
