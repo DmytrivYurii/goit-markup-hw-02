@@ -30,6 +30,9 @@ body {
 .navigation-logo .link:focus {
   color: #404bbf;
 }
+address {
+  font-style: normal;
+}
 .span-logo {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
@@ -48,9 +51,9 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.navigation-list .link:hover{
+.navigation-list .link:hover {
   color: #404bbf;
-} 
+}
 .navigation-list .link:focus {
   color: #404bbf;
 }
