@@ -25,7 +25,7 @@ body {
   text-decoration: none;
 }
 .navigation-logo .link:hover .navigation-logo .link:focus {
-  color: #404bbf;
+  color: var(--secondary-accent-color);
 }
 .span-logo {
   color: #2e2f42;
@@ -46,7 +46,7 @@ body {
   text-transform: uppercase;
 }
 .navigation-list .link:hover .navigation-list .link:focus {
-  color: #404bbf;
+  color: var(--secondary-accent-color)
 }
 .navigation-link {
   color: #2e2f42;
@@ -63,6 +63,7 @@ body {
   --logo-font: "Raleway", sans-serif;
   --primary-black-color: #434455;
   --primary-white-color: #f4f4fd;
+  --secondary-accent-color: #404bbf;
 }
 .navigation-contacts-link {
   color: #434455;
@@ -74,7 +75,7 @@ body {
 }
 .navigation-title-contacts .link:hover .navigation-title-contacts .link:focus {
   font-style: normal;
-  color: #404bbf;
+  color: var(--secondary-accent-color)
 }
 .hero {
   background-color: #2e2f42;
