@@ -40,6 +40,8 @@ body {
 }
 :root {
   --primary-font: "Roboto", sans-serif;
+  --primary-black-color: #434455;
+  --primary-white-color: #f4f4fd;
 }
 .navigation-contacts-link {
   color: #434455;
