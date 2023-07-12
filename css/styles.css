@@ -1,7 +1,6 @@
 body {
-  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .link {
   text-decoration: none;
@@ -31,7 +30,6 @@ body {
 }
 .navigation-link {
   color: #2e2f42;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -40,12 +38,11 @@ body {
 .navigation-link:hover .navigation-link:focus {
   color: #404bbf;
 }
-:root{
-  color: #434455;
+:root {
+  --primary-font: "Roboto", sans-serif;
 }
 .navigation-contacts-link {
   color: #434455;
-  font-family: "Roboto";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -61,7 +58,6 @@ body {
 .hero-title {
   color: #ffffff;
   text-align: center;
-  font-family: "Roboto";
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -70,7 +66,6 @@ body {
 .hero-btn {
   background-color: #4d5ae5;
   color: #ffffff;
-  font-family: "Roboto";
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -78,14 +73,13 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.hero-btn:hover{
-  background-color: #404BBF;
+.hero-btn:hover {
+  background-color: #404bbf;
 }
 .company-item {
 }
 .company-subtitle {
   color: #2e2f42;
-  font-family: "Roboto";
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -93,7 +87,6 @@ body {
 }
 .company-item-text {
   color: #434455;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -102,7 +95,6 @@ body {
 .work-subtitle {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto";
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -115,7 +107,6 @@ body {
 .team-subtitle {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto";
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -125,7 +116,6 @@ body {
 .team-name {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto";
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -134,7 +124,6 @@ body {
 .team-position {
   color: #434455;
   text-align: center;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -156,7 +145,6 @@ body {
 
 .footer-title {
   color: #f4f4fd;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -168,7 +156,6 @@ body {
   background-color: #404bbf;
   color: #ffffff;
   text-align: center;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -178,7 +165,6 @@ body {
   background-color: #f4f4fd;
   color: #4d5ae5;
   text-align: center;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -187,7 +173,6 @@ body {
 
 .images-subtitle {
   color: #2e2f42;
-  font-family: "Roboto";
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -195,7 +180,6 @@ body {
 }
 .images-text {
   color: #434455;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
