@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto' sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -10,12 +10,12 @@ body {
   list-style-type: none;
 }
 .navigation {
-  font-family: 'Raleway' sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #4d5ae5;
 }
 .navigation-logo {
-  color: #4D5AE5;
-  font-family: 'Raleway' sans-serif;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
@@ -24,9 +24,9 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
-.span-logo{
-  color: #2E2F42;
-  font-family: 'Raleway' sans-serif;
+.span-logo {
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
   line-height: 1.17;
@@ -35,7 +35,7 @@ body {
 }
 .span-logo-footer {
   color: #f4f4fd;
-  font-family: 'Raleway' sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
   line-height: 1.17;
@@ -56,7 +56,7 @@ body {
   color: #404bbf;
 }
 :root {
-  --primary-font: 'Roboto', sans-serif;
+  --primary-font: "Roboto", sans-serif;
   --primary-black-color: #434455;
   --primary-white-color: #f4f4fd;
 }
@@ -150,11 +150,11 @@ body {
 }
 .footer {
   background-color: #2e2f42;
-  font-family: 'Raleway' sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 .footer-link {
   color: #4d5ae5;
-  font-family: 'Raleway' sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
   line-height: 1.17;
