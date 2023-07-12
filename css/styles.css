@@ -112,10 +112,10 @@ body {
   cursor: pointer;
 }
 .hero-btn .link:hover {
-  background-color: #404bbf;
+  background-color: #404BBF;
 }
 .hero-btn .link:focus {
-  background-color: #404bbf;
+  background-color: #404BBF;
 }
 .company-item {
 }
