@@ -79,21 +79,16 @@ body {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
-  font-style: normal;
+  
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-contacts-link:hover {
-  font-style: normal;
-  color: #404bbf;
-}
+.navigation-contacts-link:hover,
 .navigation-contacts-link:focus {
   font-style: normal;
   color: #404bbf;
 }
-.navigation-contacts-list{
-  font-style: normal;
-}
+
 .hero {
   background-color: #2e2f42;
 }
