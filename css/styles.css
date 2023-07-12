@@ -84,9 +84,11 @@ body {
   letter-spacing: 0.02em;
 }
 .navigation-contacts-link:hover {
+  font-style: normal;
   color: #404bbf;
 }
 .navigation-contacts-link:focus {
+  font-style: normal;
   color: #404bbf;
 }
 .navigation-contacts-list{
@@ -114,9 +116,7 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.hero-btn:hover {
-  background-color: #404bbf;
-}
+.hero-btn:hover,
 .hero-btn:focus {
   background-color: #404bbf;
 }
