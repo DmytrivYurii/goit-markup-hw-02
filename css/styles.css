@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 .link {
   text-decoration: none;
@@ -40,7 +40,9 @@ body {
 .navigation-link:hover .navigation-link:focus {
   color: #404bbf;
 }
-
+:root{
+  color: #434455;
+}
 .navigation-contacts-link {
   color: #434455;
   font-family: "Roboto";
