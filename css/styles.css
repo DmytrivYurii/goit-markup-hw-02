@@ -24,8 +24,11 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
-.navigation-logo .link:hover .navigation-logo .link:focus {
-  color: var(--secondary-accent-color);
+.navigation-logo .link:hover {
+  color: #404bbf;
+}
+.navigation-logo .link:focus {
+  color: #404bbf;
 }
 .span-logo {
   color: #2e2f42;
@@ -45,8 +48,11 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.navigation-list .link:hover .navigation-list .link:focus {
-  color: var(--secondary-accent-color);
+.navigation-list .link:hover{
+  color: #404bbf;
+} 
+.navigation-list .link:focus {
+  color: #404bbf;
 }
 .navigation-link {
   color: #2e2f42;
@@ -55,7 +61,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-link .link:hover .navigation-link .link:focus {
+.navigation-link .link:hover {
+  color: #404bbf;
+}
+.navigation-link .link:focus {
   color: #404bbf;
 }
 :root {
