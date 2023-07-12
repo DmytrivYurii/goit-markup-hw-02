@@ -72,8 +72,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navigation-title-contacts{
+.navigation-title-contacts:hover .navigation-title-contacts:focus {
   font-style: normal;
+  color: #404bbf;
 }
 .hero {
   background-color: #2e2f42;
