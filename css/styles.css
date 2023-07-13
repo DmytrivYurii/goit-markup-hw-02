@@ -147,9 +147,10 @@ body {
 }
 /*----------------------Team-----------------*/
 .team {
-  background-color: #F4F4FD;
+  
 }
 .team-subtitle {
+  background-color: #F4F4FD;
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
