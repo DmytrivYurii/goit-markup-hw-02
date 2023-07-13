@@ -212,9 +212,10 @@ body {
 .button-list {
 }
 .button-link-press {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   color: #ffffff;
   text-align: center;
+  font-family: inherit;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
