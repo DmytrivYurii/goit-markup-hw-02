@@ -67,6 +67,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
+  font-style: normal;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -104,6 +105,7 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
   font-size: 16px;
+  cursor: pointer;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -214,6 +216,7 @@ body {
 .button-link:focus {
   color: #ffffff;
   background-color: #404bbf;
+  cursor: pointer;
 }
 
 .button-link::before {
