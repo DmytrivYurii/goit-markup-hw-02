@@ -107,7 +107,6 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -215,7 +214,6 @@ body {
 .button-link:focus {
   color: #ffffff;
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 .button-link::before {
