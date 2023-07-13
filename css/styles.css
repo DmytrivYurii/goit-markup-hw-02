@@ -218,10 +218,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-link-press:hover,
-.button-link-press:focus,
 .button-link:hover,
 .button-link:focus {
+  color: #ffffff;
   background-color: #404bbf;
   cursor: pointer;
 }
