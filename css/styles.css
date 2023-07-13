@@ -7,7 +7,7 @@ body {
   text-decoration: none;
 }
 .list {
-  list-style: none;
+  list-style  : none;
 }
 /*---------------------Navigation------------------------------*/
 .navigation {
@@ -117,7 +117,7 @@ body {
   background-color: #404bbf;
 }
 
-/*---------------------Company------------------*/
+/*---------------------Section Company------------------*/
 .company-item {
 }
 .company-subtitle {
@@ -135,7 +135,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-/*------------------------Work------------------*/
+/*------------------------Section Work------------------*/
 .work-subtitle {
   color: #2e2f42;
   text-align: center;
@@ -145,7 +145,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-/*----------------------Team-----------------*/
+/*----------------------Section Team-----------------*/
 .team {
 }
 .team-subtitle {
@@ -169,7 +169,7 @@ body {
   letter-spacing: 0.02em;
 }
 .team-item {
-  background-color: #ffffff;
+  background-color: #F4F4FD;
 }
 .team-position {
   color: #434455;
@@ -180,7 +180,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-/*---------------------Footer-----------------*/
+/*---------------------Section Footer-----------------*/
 .footer {
   background-color: #2e2f42;
   font-family: "Raleway", sans-serif;
@@ -205,19 +205,9 @@ body {
 
 /*--------------------Portfolio----------------------*/
 
-/*-------------------------Button--------------------*/
+/*-------------------------Section Button--------------------*/
 
 .button-list {
-}
-.button-link-press {
-  background-color: #404bbf;
-  color: #ffffff;
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
 }
 .button-link {
   background-color: #f4f4fd;
@@ -236,7 +226,18 @@ body {
   cursor: pointer;
 }
 
-/*---------------------------Images-------------------*/
+.button-link::before {
+  background-color: #4d5ae5;
+  color: #F4F4FD;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+/*---------------------------Section Images-------------------*/
 .images-subtitle {
   color: #2e2f42;
   font-size: 20px;
