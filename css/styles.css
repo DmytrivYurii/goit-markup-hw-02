@@ -218,7 +218,6 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  cursor: pointer;
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
@@ -228,10 +227,16 @@ body {
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  cursor: pointer;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+}
+.button-link-press:hover,
+.button-link-press:focus,
+.button-link:hover,
+.button-link:focus{
+  background-color: #404BBF;
+  cursor: pointer
 }
 
 /*---------------------------Images-------------------*/
