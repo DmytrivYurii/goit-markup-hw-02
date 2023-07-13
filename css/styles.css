@@ -57,7 +57,6 @@ body {
   letter-spacing: 0.02em;
 }
 .navigation-title-contacts {
-  font-style: normal;
 }
 .navigation-contacts-link:hover,
 .navigation-contacts-link:focus {
@@ -97,7 +96,6 @@ body {
   color: #ffffff;
   text-align: center;
   font-size: 56px;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
@@ -106,7 +104,6 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -130,7 +127,6 @@ body {
 .company-item-text {
   color: #434455;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -140,7 +136,6 @@ body {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -153,7 +148,6 @@ body {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -175,7 +169,6 @@ body {
   color: #434455;
   text-align: center;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -198,7 +191,6 @@ body {
 .footer-title {
   color: #f4f4fd;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -248,7 +240,6 @@ body {
 .images-text {
   color: #434455;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
