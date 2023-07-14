@@ -57,6 +57,7 @@ body {
   letter-spacing: 0.02em;
 }
 .navigation-title-contacts {
+  font-family: 'Roboto';
   font-style: normal;
 }
 .navigation-contacts-link:hover,
