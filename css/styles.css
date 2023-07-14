@@ -38,6 +38,7 @@ body {
   color: #404bbf;
 }
 .navigation-link {
+  font-family: 'Roboto';
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
